@@ -1,4 +1,4 @@
-This is a very minimal implemention of an [org babel](https://orgmode.org/worg/org-contrib/babel/languages/index.html) file for the [GAP](https://www.gap-system.org/)
+This is a very minimal implementation of an [org babel](https://orgmode.org/worg/org-contrib/babel/languages/index.html) file for the [GAP](https://www.gap-system.org/)
 algebra system modified from the template file. This allows the evaluation of GAP code blocks in org:
 
 ```
