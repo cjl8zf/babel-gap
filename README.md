@@ -2,7 +2,6 @@ This is a very minimal implemention of an [org babel](https://orgmode.org/worg/o
 algebra system. This allows the evaluation of GAP code blocks in org:
 
 ```
-#+begin_src text
 #+begin_src gap
     G := DihedralGroup(8);
     Print(StructureDescription(Center(G)));
