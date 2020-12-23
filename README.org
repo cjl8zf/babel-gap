@@ -3,6 +3,8 @@
   This is a very minimal implemention of an [[https://orgmode.org/worg/org-contrib/babel/languages/index.html][org babel]] file for the [[https://www.gap-system.org/][GAP]]
   algebra system. This allows the evaluation of GAP code blocks in org:
   
+  #+BEGIN_EXAMPLE
+  
     #+begin_src gap
       G := DihedralGroup(8);
       Print(StructureDescription(Center(G)));
@@ -12,3 +14,4 @@
     :  <pc group of size 8 with 3 generators>
     :  > C2
 
+  #+END_EXAMPLE
