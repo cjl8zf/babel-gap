@@ -12,3 +12,5 @@ algebra system modified from the template file. This allows the evaluation of GA
 :  > C2
 ```
 
+This assumes that the [GAP major mode](https://melpa.org/#/gap-mode)
+is installed.
